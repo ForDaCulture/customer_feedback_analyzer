@@ -85,12 +85,6 @@ python main.py visualize
 
 Generates plots in the plots/ directory.
 
-Conclusion This implementation provides a complete, functional Customer Feedback Analyzer that: Showcases MIS skills for your GitHub portfolio.
 
-Ties to business optimization concepts like BPM and the Balanced Scorecard.
-
-Includes placeholders for APIs to indicate scalability and ethical alternatives.
-
-Is well-documented for employers to understand its value.
 
 Adjust selectors in scraper.py as needed based on current platform HTML, and consider testing with sample HTML files to enhance professionalism.
